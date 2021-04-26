@@ -1,0 +1,46 @@
+#logoHolder{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+#searchBar{
+    position: absolute;
+    margin-top: 50px;
+    top: 50%;
+    left: 30%;
+    width: 584px;
+    height: 50px;
+    border-style: solid;
+    border: 1px solid grey;
+    border-radius: 24px;
+}
+.searchButtons{
+    position: absolute;
+    top: 100%;
+    left: 40%;
+
+}
+#search{
+    margin: 11px 4px;
+    float: left;
+    border: solid 1px  #f8f9fa ;
+    background-color: #f8f9fa;
+    min-width: 120px;
+    min-height: 36px;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 14px;
+}
+#lucky{
+    margin: 11px 4px;
+    float: right;
+    border: solid 1px  #f8f9fa;
+    background-color: #f8f9fa;
+    left: 30px;
+    width: 120px;
+    height: 36px;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 14px;
+   
+}
